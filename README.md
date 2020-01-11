@@ -22,6 +22,7 @@ sudo apt install fritzing
 
 ## Test servo
 Path: ArduinoCode/TestServoMotor
+
 Subpath:
 * CODE: test_servo_mtor/test_servo_mtor.ino
 * SCHEMA: schema.ffz
